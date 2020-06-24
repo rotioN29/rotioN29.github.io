@@ -12,3 +12,5 @@ Ein Kämpfer, der sich jedem Gegner furchtlos entgegenstellt. Aufgeben ist ihm e
 * energisch
 * mutig
 * motiviert
+
+> RUM-KUGELN tun RUM kugeln! Ein Clifftier ist kein Haustier. Die Matrosen sollen sich bloss nicht einschiffen. Die Kuh macht ab und zu mal muh. Meine Witze sind Spitze!
